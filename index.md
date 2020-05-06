@@ -10,6 +10,8 @@ Citing as: Hewu WANG. Data Base of Electric Vehicle Production in China, State K
 
 ![all_c](201912figure/all_y_com.png?raw=true)
 
+**2019年1-12月，我国共生产新能源乘用车1,078,110辆，新能源客车95,269辆，新能源货车及专用车53,513辆。**
+
 版权：清华大学车辆与运载学院/汽车安全与节能国家重点实验室
 
 Copyright:  State Key Laboratory of Automotive Safety and Energy, Tsinghua University
@@ -46,10 +48,16 @@ Copyright:  State Key Laboratory of Automotive Safety and Energy, Tsinghua Unive
 6)   Ou S, Hao X, Lin Z, Wang H, Bouchard J, He X, et al. **Light-duty plug-in electric vehicles in China: An overview on the market and its comparisons to the United States.** Renewable and Sustainable Energy Reviews 2019;112:747–61. [https://doi.org/10.1016/j.rser.2019.06.021](https://doi.org/10.1016/j.rser.2019.06.021).
 
 数据库输出的分析结果多次被国际权威机构使用，如中国电动汽车百人会（ChinaEV100）、美国能源部（DOE，通过美方合作伙伴阿岗国家实验室）、ICCT等													
+### 数据支持 Data Support
+
+数据可能因统计口径不同而存在一定差别
+
+The data may vary with different statistical sources.
+
 
 ### 支持与联络 Support or Contact
 
-深入合作事宜请联络 psgnevdatabse@163.com
+详细数据分析请联络 psgnevdatabse@163.com
 
 For more details, please contact psgnevdatabse@163.com
 
