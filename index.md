@@ -6,7 +6,7 @@ Citing as: Hewu WANG. Data Base of Electric Vehicle Production in China, State K
 
 ### 中国新能源汽车产量统计（截止2019年12月）
 
-![all_y](https://github.com/echoisgreat/psgdatabase.github.io/blob/master/201912figure/all_y.png?raw=true)
+![all_y](https://ftp.bmp.ovh/imgs/2020/05/08ffe5bd35cf0835.png)
 
 ![all_c](https://github.com/echoisgreat/psgdatabase.github.io/blob/master/201912figure/all_y_com.png?raw=true)
 
