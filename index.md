@@ -6,12 +6,7 @@ Citing as: Hewu WANG. Data Base of Electric Vehicle Production in China, State K
 
 ### 中国新能源汽车产量统计（截止2019年12月）
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-
-[Link](url) and ![Image](src)
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+![all_y](https://github.com/echoisgreat/psgdatabase.github.io/blob/master/201912figure/all_y.png)
 
 ## 相关研究 Related Researches
 
