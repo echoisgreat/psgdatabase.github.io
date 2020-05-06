@@ -1,6 +1,7 @@
 ## 中国新能源汽车产量统计
 
 引用请注明：王贺武. 中国节能与新能源汽车产业数据库，清华大学汽车安全与节能国家重点实验室,wanghw@tsinghua.edu.cn
+
 Citing as: Hewu WANG. Data Base of Electric Vehicle Production in China, State Key Laboratory of Automitive Safety and Energy, Tsinghua University, wanghw@tsinghua.edu.cn
 
 You can use the [editor on GitHub](https://github.com/echoisgreat/psgdatabase.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
