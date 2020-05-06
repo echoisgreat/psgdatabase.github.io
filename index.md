@@ -1,12 +1,8 @@
 ## 中国新能源汽车产量统计
 
-引用请注明：王贺武. 中国节能与新能源汽车产业数据库，清华大学汽车安全与节能国家重点实验室,wanghw@tsinghua.edu.cn
+引用请注明：王贺武. 中国节能与新能源汽车产业数据库，清华大学汽车安全与节能国家重点实验室, wanghw@tsinghua.edu.cn
 
 Citing as: Hewu WANG. Data Base of Electric Vehicle Production in China, State Key Laboratory of Automitive Safety and Energy, Tsinghua University, wanghw@tsinghua.edu.cn
-
-You can use the [editor on GitHub](https://github.com/echoisgreat/psgdatabase.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### 中国新能源汽车产量统计（截止2019年12月）
 
@@ -17,7 +13,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### 相关论文
+### 相关论文 Related Researches
 
 1）	王贺武, 石红, 陈萍, 欧阳明高, 基于数据库的中国节能与新能源汽车产业化进程的分析, 汽车安全与节能学报, 2014(03):294-297
 
@@ -33,6 +29,13 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 数据库输出的分析结果多次被国际权威机构使用，如中国电动汽车百人会（ChinaEV100）、美国能源部（DOE，通过美方合作伙伴阿岗国家实验室）； ICCT														
 
-### Support or Contact
+### 支持与联络 Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+深入合作事宜请联络 haox15@mails.tsinghua.edu.cn
+
+Please contact haox15@mails.tsinghua.edu.cn for more details 
+
+更新于2020年5月6日
+Updated by May 6th, 2020
+
+
