@@ -8,7 +8,7 @@ Citing as: Hewu WANG. Data Base of Electric Vehicle Production in China, State K
 
 ![all_y](https://ftp.bmp.ovh/imgs/2020/05/08ffe5bd35cf0835.png)
 
-![all_c](https://github.com/echoisgreat/psgdatabase.github.io/blob/master/201912figure/all_y_com.png?raw=true)
+![all_c](201912figure/all_y_com.png?raw=true)
 
 版权：清华大学车辆与运载学院/汽车安全与节能国家重点实验室
 
