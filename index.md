@@ -1,8 +1,8 @@
 ## 中国新能源汽车产量统计
 
-引用请注明：王贺武. 中国节能与新能源汽车产业数据库，清华大学汽车安全与节能国家重点实验室
+引用请注明：王贺武，郝旭. 中国节能与新能源汽车产业数据库，清华大学汽车安全与节能国家重点实验室
 
-Citing as: Hewu WANG. Data Base of Electric Vehicle Production in China, State Key Laboratory of Automitive Safety and Energy, Tsinghua University
+Citing as: Hewu WANG, Xu HAO. Data Base of Electric Vehicle Production in China, State Key Laboratory of Automitive Safety and Energy, Tsinghua University
 
 ### 中国新能源汽车产量统计（截止2019年12月）
 
