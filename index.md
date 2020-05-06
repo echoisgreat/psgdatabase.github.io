@@ -13,7 +13,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-## 相关论文 Related Researches
+## 相关研究 Related Researches
 
 1）	王贺武, 石红, 陈萍, 欧阳明高, 基于数据库的中国节能与新能源汽车产业化进程的分析, 汽车安全与节能学报, 2014(03):294-297
 
@@ -36,6 +36,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 For more details, please contact haox15@mails.tsinghua.edu.cn 
 
 更新于2020年5月6日
+
 Updated by May 6th, 2020
 
 
