@@ -6,7 +6,7 @@ Citing as: Hewu WANG. Data Base of Electric Vehicle Production in China, State K
 
 ### 中国新能源汽车产量统计（截止2019年12月）
 
-![all_y](https://ftp.bmp.ovh/imgs/2020/05/08ffe5bd35cf0835.png)
+![all_y](201912figure/all_y.png?raw=true)
 
 ![all_c](201912figure/all_y_com.png?raw=true)
 
@@ -16,7 +16,7 @@ Copyright:  State Key Laboratory of Automotive Safety and Energy
 
 #### 中国新能源乘用车产量统计（截止2019年12月）
 
-![py_y](https://github.com/echoisgreat/psgdatabase.github.io/blob/master/201912figure/pv_y.png?raw=true)
+![py_y](201912figure/pv_y.png?raw=true)
 
 版权：清华大学车辆与运载学院/汽车安全与节能国家重点实验室
 
@@ -24,7 +24,7 @@ Copyright:  State Key Laboratory of Automotive Safety and Energy
 
 #### 中国新能源客车产量统计（截止2019年12月）
 
-![py_y](https://github.com/echoisgreat/psgdatabase.github.io/blob/master/201912figure/cv_y.png?raw=true)
+![py_y](201912figure/cv_y.png?raw=true)
 
 版权：清华大学车辆与运载学院/汽车安全与节能国家重点实验室
 
