@@ -14,6 +14,23 @@ Citing as: Hewu WANG. Data Base of Electric Vehicle Production in China, State K
 
 Copyright:  State Key Laboratory of Automotive Safety and Energy
 
+#### 中国新能源乘用车产量统计（截止2019年12月）
+
+![py_y](https://github.com/echoisgreat/psgdatabase.github.io/blob/master/201912figure/pv_y.png?raw=true)
+
+版权：清华大学车辆与运载学院/汽车安全与节能国家重点实验室
+
+Copyright:  State Key Laboratory of Automotive Safety and Energy
+
+#### 中国新能源客车产量统计（截止2019年12月）
+
+![py_y](https://github.com/echoisgreat/psgdatabase.github.io/blob/master/201912figure/cv_y.png?raw=true)
+
+版权：清华大学车辆与运载学院/汽车安全与节能国家重点实验室
+
+Copyright:  State Key Laboratory of Automotive Safety and Energy
+
+
 ## 相关研究 Related Researches
 
 1）	王贺武, 石红, 陈萍, 欧阳明高, 基于数据库的中国节能与新能源汽车产业化进程的分析, 汽车安全与节能学报, 2014(03):294-297
