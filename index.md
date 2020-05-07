@@ -26,7 +26,7 @@ Copyright:  State Key Laboratory of Automotive Safety and Energy, Tsinghua Unive
 
 #### 中国新能源客车产量统计（截止2019年12月）
 
-![py_y](201912figure/cv_y.png?raw=true)
+![cy_y](201912figure/cv_y.png?raw=true)
 
 版权：清华大学车辆与运载学院/汽车安全与节能国家重点实验室
 
